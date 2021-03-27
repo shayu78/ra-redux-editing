@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/otc6nrsu949oeb82?svg=true)](https://ci.appveyor.com/project/shayu78/ra-redux-editing)
 Редактирование
 ===
 
